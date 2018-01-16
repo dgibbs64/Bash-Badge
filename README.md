@@ -1,5 +1,5 @@
 # Bash-Badge
-A Bash Button using shields.io
+Bash Buttons using shields.io
 
 This button uses the official Bash logo https://github.com/odb/official-bash-logo
 
