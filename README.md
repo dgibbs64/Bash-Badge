@@ -1,3 +1,4 @@
+
 # Bash Badge
 Badges to show off your project uses Bash.
 
@@ -8,6 +9,9 @@ Made using [shields.io](https://github.com/badges/shields) that can be included 
 </h3>
 
 This badge uses the official [Bash logo](https://github.com/odb/official-bash-logo).
+
+More awesome badges can be found [here](https://github.com/Naereen/badges) and [here](https://github.com/ellerbrock/open-source-badges).
+
 # Made with Bash
 
 ## Flat
