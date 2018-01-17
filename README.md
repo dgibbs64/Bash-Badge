@@ -1,11 +1,13 @@
 # Bash Badge
-Bash Buttons using [shields.io](https://github.com/badges/shields) that can be included in a README.md file for a GitHub or Bitbucket project.
+Badges to show off your project uses Bash.
+
+Made using [shields.io](https://github.com/badges/shields) that can be included in a README.md file for a GitHub or Bitbucket project.
 
 <h3 align="center">
 <img src="https://cdn.rawgit.com/odb/official-bash-logo/master/assets/Logos/Identity/PNG/BASH_logo-transparent-bg-color.png">
 </h3>
 
-This button uses the official [Bash logo](https://github.com/odb/official-bash-logo) 
+This badge uses the official [Bash logo](https://github.com/odb/official-bash-logo) 
 # Made with Bash
 
 ## Flat
