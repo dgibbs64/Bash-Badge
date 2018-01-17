@@ -7,7 +7,7 @@ Made using [shields.io](https://github.com/badges/shields) that can be included 
 <img src="https://cdn.rawgit.com/odb/official-bash-logo/master/assets/Logos/Identity/PNG/BASH_logo-transparent-bg-color.png">
 </h3>
 
-This badge uses the official [Bash logo](https://github.com/odb/official-bash-logo) 
+This badge uses the official [Bash logo](https://github.com/odb/official-bash-logo).
 # Made with Bash
 
 ## Flat
