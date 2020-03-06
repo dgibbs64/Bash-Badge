@@ -1,5 +1,5 @@
 # Bash Badge
-Badges to show off your project uses Bash.
+Badges to show your project uses Bash.
 
 Made using [shields.io](https://github.com/badges/shields) that can be included in a README.md file for a GitHub or Bitbucket project.
 
